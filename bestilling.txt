@@ -1,0 +1,8 @@
+20	maelk		10,50
+7	smoer		15,75
+12	franskbroed	25,00
+8 	rugbroed	17,75
+18	yoghurt		12,25
+12  romkugler   10,80
+13  bananer     12,75
+51  kager       11,89
